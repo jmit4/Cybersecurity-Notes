@@ -1,6 +1,4 @@
-# pwn.college Notes
-
-Personal notes and write-ups for exercises and content from [pwn.college](https://pwn.college), a cybersecurity education platform focused on developing hacking skills through hands-on challenges.
+# Cybersecurity notes
 
 ## Introduction
 
